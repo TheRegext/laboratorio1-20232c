@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
-
+//*************************
+/// VIDEO EXPLICATIVO: https://youtu.be/dYUC-xl5szo
+//*************************
 /**
    hace un programa que dada una lista de 10 numeros enteros,
    muestre el promedio de los numeros pares
